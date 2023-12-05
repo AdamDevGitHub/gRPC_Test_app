@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\WpfGrpcClientAM\WpfGrpcClient\obj\Release\net5.0-windows\WpfGrpcClient.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WpfGrpcClientAM\WpfGrpcClient\obj\Release\net5.0-windows\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfGrpcClientAM\WpfGrpcClient\obj\Release\net5.0-windows\App.g.cs
+C:\Users\Admin\source\repos\WpfGrpcClientAM\WpfGrpcClient\obj\Release\net5.0-windows\WpfGrpcClient_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfGrpcClientAM\WpfGrpcClient\obj\Release\net5.0-windows\WpfGrpcClient_MarkupCompile.lref

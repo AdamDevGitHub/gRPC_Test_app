@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\WpfGrpcClientAM\WpfGrpcClientAM\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfGrpcClientAM\WpfGrpcClientAM\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Admin\source\repos\WpfGrpcClientAM\WpfGrpcClientAM\obj\Debug\net5.0-windows\WpfGrpcClientAM_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfGrpcClientAM\WpfGrpcClientAM\obj\Debug\net5.0-windows\WpfGrpcClientAM_MarkupCompile.lref

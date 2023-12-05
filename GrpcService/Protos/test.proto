@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService";
+
+package test;
+
+service Test {
+  rpc IsInDB (Request) returns (Reply);
+}
+
+message Request { 
+string firstName = 1;
+string lastName = 2;
+string city = 3;
+}
+
+message Reply {
+  bool exist = 1;
+  string message = 2;
+}
